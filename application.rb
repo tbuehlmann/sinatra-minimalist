@@ -1,4 +1,3 @@
-require 'rubygems'
 require 'sinatra/base'
 
 class Application < Sinatra::Base
@@ -6,4 +5,3 @@ class Application < Sinatra::Base
     'Hello World!'
   end
 end
-

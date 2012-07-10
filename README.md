@@ -3,4 +3,3 @@
 ## Starting
 
 `$ rackup config.ru`
-
